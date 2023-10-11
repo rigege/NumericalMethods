@@ -6,3 +6,5 @@ Solving Linear Systems of Equations (Gauss-Seidel, Gaussian Elimination with Par
 
 Roots of Non-Linear Equations (Bisection, Single-Point Interation, Newton-Raphson)
   - Equation in the functions at the bottom can be replaced
+
+Will continue to be updated...
